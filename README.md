@@ -1,27 +1,35 @@
-# Rook
-Welcome to the DIY 3D Printer called Rook!
+# Rook Modified
 
-This is a tiny mostly 3d printed CoreXY printer with a build volume of 120x120
+Welcome to my fork of the [Rook](https://github.com/rolohaun/Rook) DIY 3D Printer by [Rolohaun 3D](https://github.com/rolohaun)
+
+There were a few tweaks i wished to make to the original project to suit my own needs.
+
+As stated in the original project, this is a small CoreXY 3D printer with a 120x120 build volume
 
 ![](Build_Photos/rook.png)
 
-PLEASE NOTE THIS PRINTER IS A WORK IN PROGRESS!
+This is a work in progress, see below for planned modifications
 
-The goal of this printer is to make a cheap easy to build 3D printer than can be built by anyone.
+for now you no BOM is yet provided, but is largely similar to the original BOM [here](https://docs.google.com/spreadsheets/d/1oHDEvndkkvPFOBis4atrHRHK_DMTvttFUFWDg2He6To/edit#gid=0)
 
-Features:
+## Modifications
 
-- 3D Printed Frame
-- CoreXY
-- Dual Lead Screws
-- Only Roughly $260 USD in cost
-
-BOM
-
-https://docs.google.com/spreadsheets/d/1oHDEvndkkvPFOBis4atrHRHK_DMTvttFUFWDg2He6To/edit#gid=0
-
-Videos on Youtube
+### Hotend
+#### ToDo
+-Support for E3D v6 style hotends (Got a few spares lying around)
+-Part cooling fan(s) on print head (removal of 120mm fan)
+#### Done
 
 
-Support me on Patreon
-https://www.patreon.com/rolohaun
+### Extruders
+#### ToDo
+-Add extruder mounts
+#### Done
+
+
+### Frame mods
+#### ToDo
+- Enclosed base housing power supply and IEC connector for safety
+- Casing on rear where 120mm fan currently located to house control board
+- Cable management
+#### Done
