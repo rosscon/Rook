@@ -2,7 +2,7 @@
 
 Welcome to my fork of the [Rook](https://github.com/rolohaun/Rook) DIY 3D Printer by [Rolohaun 3D](https://github.com/rolohaun)
 
-There were a few tweaks i wished to make to the original project to suit my own needs.
+There were a few tweaks I wished to make to the original project to suit my own needs and make use of some spares.
 
 As stated in the original project, this is a small CoreXY 3D printer with a 120x120 build volume
 
