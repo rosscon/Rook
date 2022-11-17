@@ -18,12 +18,14 @@ For now you no BOM is yet provided, but is largely similar to the original BOM [
 #### ToDo
 - Support for E3D v6 style hotends (Got a few spares lying around)
 - Part cooling fan(s) on print head (removal of 120mm fan)
+
 #### Done
 
 
 ### Extruders
 #### ToDo
 - Add extruder mounts
+
 #### Done
 
 
@@ -32,4 +34,5 @@ For now you no BOM is yet provided, but is largely similar to the original BOM [
 - Enclosed base housing power supply and IEC connector for safety
 - Casing on rear where 120mm fan currently located to house control board
 - Cable management
+
 #### Done
