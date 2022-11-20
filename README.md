@@ -10,7 +10,7 @@ As stated in the original project, this is a small CoreXY 3D printer with a 120x
 ![](Build_Photos/rook.png)
 
 
-# Modified
+## Modified
 ![](Mods/images/front.png)
 ![](Mods/images/rear.png)
 ![](Mods/images/underside.png)
