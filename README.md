@@ -34,4 +34,8 @@ I am currently still printing pars so all of these mods are currently untested!
 ## Future Modifications
 - Support for E3D v6 style hotends (Got a few spares lying around)
 - Part cooling fan(s) on print head (removal of 120mm fan)
+- Camera mounts on top frame
+- RJ45 network port on rear
+- WiFi Antenna Mounting
+
 
